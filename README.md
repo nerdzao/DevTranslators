@@ -8,6 +8,15 @@ das documentações do Javascript no forúm da <a href="https://developer.mozill
 mas ainda a muito a se fazer. Você e toda 
 comunidade está convidado a contribuir, fique ligado, nesta semana faremos a lista dos links que precisam ser 
 traduzidos e revisados.
+
+[UPDATE 1.0]
+Recebemos algumas sugestões para o andamento do projeto. Temos uma definição clara de como será daqui para frente, mas ainda sim, aceitamos mais ideias e sugestões.
+
+A princípio, cadastraremos todas as documentações pendentes aqui no github (como issue), você fará um pull request neste issue e neste momento, você é responsável por traduzir o issue escolhido.
+Provavelmente até sábado teremos a primeira "remessa" para trabalhar, usaremos como teste para o andamento dos proximos passos.
+
+
+
 <br>
 <br>
 
